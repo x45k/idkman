@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Basket Random",
     "description": "its basket random",
@@ -11,4 +11,4 @@
     "icon": "🏀",
     "downloadurl": "https://github.com/x45k/stuff/archive/refs/heads/main.zip"
   }
-}
+]
